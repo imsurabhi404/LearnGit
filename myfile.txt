@@ -1,8 +1,9 @@
 Add a new line 
-wq
+
 helooo worlddd how are u
 
-i 
+i am in the new repository LearnGit 
+
 this is a new line
 
 
